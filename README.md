@@ -1,0 +1,1 @@
+Ukázka klasických sortovacích algoritmů.
